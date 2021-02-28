@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(she/her)
-
 I'm Rita, a freshman student at UBC!
+My pronouns are she/her.
 Currently reading lots about leadership and philosophy :)
 
-🔭 I’m currently working on: planning external events & personal projects
-👯 I’m looking to collaborate on hackathons, produthons, and innovative projects
-⚡ Fun fact: I'm a Halloween baby!
+- 🔭 I’m currently working on: planning external events & personal projects
+- 👯 I’m looking to collaborate on hackathons, produthons, and innovative projects
+- ⚡ Fun fact: I'm a Halloween baby!

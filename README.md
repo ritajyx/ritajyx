@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 (she/her)
 
-An freshman student at UBC!
+I'm Rita, a freshman student at UBC!
 Currently reading lots about leadership and philosophy :)
 
 🔭 I’m currently working on: planning external events & personal projects

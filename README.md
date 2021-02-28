@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+(she/her)
+
+An freshman student at UBC!
+Currently reading lots about leadership and philosophy :)
+
+🔭 I’m currently working on: planning external events & personal projects
+👯 I’m looking to collaborate on hackathons, produthons, and innovative projects
+⚡ Fun fact: I'm a Halloween baby!

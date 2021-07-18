@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Rita, a freshman student at UBC!
-My pronouns are she/her.
-Currently reading lots about leadership and philosophy :)
+I'm Rita, a rising sophomore student at UBC!
+Current status: reading lots about leadership, microbiology, and philosophy (also in the mood for to learn some economics) :) 
 
-- 🔭 I’m currently working on: planning external events & personal projects
+- 🔭 I’m currently working on: financial management & personal creative projects
 - 👯 I’m looking to collaborate on hackathons, produthons, and innovative projects
 - ⚡ Fun fact: I'm a Halloween baby!
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Rita, a rising sophomore student at UBC!
-Current status: reading lots about leadership, microbiology, and philosophy (also in the mood for to learn some economics) :) 
+Current status: reading lots about leadership, microbiology, and philosophy – also in the mood to learn some economics! :) 
 
 - 🔭 I’m currently working on: financial management & personal creative projects
 - 👯 I’m looking to collaborate on hackathons, produthons, and innovative projects

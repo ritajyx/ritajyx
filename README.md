@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Rita, a rising sophomore student at UBC!
+I'm Rita, a rising junior student at UBC!
 Current status: reading lots about leadership, microbiology, and philosophy – also in the mood to learn some economics! :) 
 
 - 🔭 I’m currently working on: financial management & personal creative projects

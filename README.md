@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi there 👋 
 
 <!--
 **ritajyx/ritajyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Rita, a rising junior student at UBC!
-Current status: reading lots about leadership, microbiology, and philosophy – also in the mood to learn some economics! :) 
+it's rita (she/her) here! 
 
-- 🔭 I’m currently working on: financial management & personal creative projects
-- 👯 I’m looking to collaborate on hackathons, produthons, and innovative projects
-- ⚡ Fun fact: I'm a Halloween baby!
+a UBC student with an aspiration to be a renaissance woman (learning through medicine, coding side quests, video projects, book reviews, travelling, and writing pieces on any ideas that catch my attention).
 
-Always down to discuss interesting concepts and innovative technology!
+always happy to meet new friends - reach out to me at ritajyx[at]student.ubc.ca!
